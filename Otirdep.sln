@@ -1,14 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{39502AFE-38E9-CEDE-D294-D6EE2ACB2A28}") = "Otirdep", "Assembly-UnityScript-Editor.unityproj", "{1626E766-B943-CF9C-AB5E-D2B529851A9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{1626E766-B943-CF9C-AB5E-D2B529851A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1626E766-B943-CF9C-AB5E-D2B529851A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1626E766-B943-CF9C-AB5E-D2B529851A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1626E766-B943-CF9C-AB5E-D2B529851A9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
