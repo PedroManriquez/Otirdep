@@ -46,9 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Library\2DForestDesigner\Editor\HPFD_EditorFree.js" />
-     <None Include="Assets\Library\SimpleSky\ReadMe.txt" />
-     <None Include="Assets\Library\Scifi Art Demo Pack\Demo Readme.txt" />
+     <Compile Include="Assets\Libraries\2DForestDesigner\Editor\HPFD_EditorFree.js" />
+     <None Include="Assets\Libraries\SimpleSky\ReadMe.txt" />
+     <None Include="Assets\Libraries\Scifi Art Demo Pack\Demo Readme.txt" />
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
