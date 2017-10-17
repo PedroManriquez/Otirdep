@@ -46,9 +46,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Stagit\SkyboxEarthPlanets\script\skyboxspace_demo_v1.cs" />
-     <Compile Include="Assets\Stagit\SkyboxEarthPlanets\script\skyboxspace_mouselook_v1.cs" />
-     <None Include="Assets\Stagit\SkyboxEarthPlanets\readme.txt" />
+     <Compile Include="Assets\2D Platformer Controller\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\2D Platformer Controller\Scripts\Controller2D.cs" />
+     <Compile Include="Assets\2D Platformer Controller\Scripts\PlatformController.cs" />
+     <Compile Include="Assets\2D Platformer Controller\Scripts\Player.cs" />
+     <Compile Include="Assets\2D Platformer Controller\Scripts\PlayerInput.cs" />
+     <Compile Include="Assets\2D Platformer Controller\Scripts\RaycastController.cs" />
+     <None Include="Assets\2D Platformer Controller\Readme.txt" />
+     <None Include="Assets\Libraries\SimpleSky\ReadMe.txt" />
+     <None Include="Assets\Libraries\Scifi Art Demo Pack\Demo Readme.txt" />
+     <None Include="Assets\2D Platformer Controller\LICENSE02.txt" />
+     <None Include="Assets\2D Platformer Controller\LICENSE.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -69,9 +77,6 @@
  </Reference>
  <Reference Include="UnityEngine.VR">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
- </Reference>
- <Reference Include="Mono.Cecil">
- <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
