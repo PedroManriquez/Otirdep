@@ -52,6 +52,7 @@
      <Compile Include="Assets\Libraries\2D Platformer Controller\Scripts\Player.cs" />
      <Compile Include="Assets\Libraries\2D Platformer Controller\Scripts\PlayerInput.cs" />
      <Compile Include="Assets\Libraries\2D Platformer Controller\Scripts\RaycastController.cs" />
+     <Compile Include="Assets\Scripts\SonicTestingScript.cs" />
      <None Include="Assets\Libraries\2D Platformer Controller\Readme.txt" />
      <None Include="Assets\Libraries\SimpleSky\ReadMe.txt" />
      <None Include="Assets\Libraries\Scifi Art Demo Pack\Demo Readme.txt" />
@@ -77,9 +78,6 @@
  </Reference>
  <Reference Include="UnityEngine.VR">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
- </Reference>
- <Reference Include="Mono.Cecil">
- <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
