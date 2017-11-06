@@ -1,4 +1,10 @@
 Temp/
 ProjectSettings/
 Library/*
+Library/metadata/*
+Library/assetDatabase3
+Library/shadercompiler-UnityShaderCompiler.exe0.log
+Library/ScriptAssemblies/BuiltinAssemblies.stamp
+Assembly-CSharp.csproj
+Assembly-UnityScript-Editor.unityproj
 obj/
