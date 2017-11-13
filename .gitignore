@@ -14,3 +14,8 @@ Assembly-CSharp.csproj
 Assembly-UnityScript-Editor.unityproj
 obj/
 Otirdep.userprefs
+Assets/Sprites/*.meta
+Assets/Scenes/*.meta
+Assets/Scripts/*.meta
+Assets/Materials/*.meta
+Assets/*.meta
