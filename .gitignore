@@ -17,4 +17,5 @@ Otirdep.userprefs
 Assets/Sprites/*.meta
 Assets/Scenes/*.meta
 Assets/Scripts/*.meta
+Assets/Materials/*.meta
 Assets/*.meta
