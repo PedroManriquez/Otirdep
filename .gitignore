@@ -9,8 +9,8 @@ Library/LastSceneManagerSetup.txt
 Library/CurrentMaximizeLayout.dwlt
 Library/shadercompiler-UnityShaderCompiler.exe0.log
 Library/ScriptAssemblies/BuiltinAssemblies.stamp
+Library/InspectorExpandedItems.asset
 Assembly-CSharp.csproj
 Assembly-UnityScript-Editor.unityproj
 obj/
-
-
+Otirdep.userprefs
