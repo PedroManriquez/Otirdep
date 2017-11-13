@@ -15,3 +15,6 @@ Assembly-UnityScript-Editor.unityproj
 obj/
 Otirdep.userprefs
 Assets/Sprites/*.meta
+Assets/Scenes/*.meta
+Assets/Scripts/*.meta
+Assets/*.meta
